@@ -1,2 +1,0 @@
-# nikita
-Created with CodeSandbox
